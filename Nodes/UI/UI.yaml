@@ -172,6 +172,10 @@ Children:
     Children:
     - Name: Default
       Type: CheckBoxStyle
+  - Name: WindowColor
+    Type: BaseDataVariableType
+    DataType: Color
+    Value: "#ffff00"
 - Name: NativePresentationEngine
   Type: NativePresentationEngine
   ReferenceType: HasOrderedComponent
